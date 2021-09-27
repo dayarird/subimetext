@@ -2,9 +2,9 @@
 
 ### DAYARÍ RODRÍGUEZ DELGADO 1º DAM
 
-#### Para realizar esta instalación debía poder hacer un copia/pega desde la máquina física a la máquina virtual (Ubuntu), en la copia de la misma que tenía en el disco duro me fue imposible, introduje varios comandos para poder instalalar la opción de hacer el copia/pega, no se pudo realizar, todo heho en el ordenador de clase.
+#### Para realizar esta instalación debía poder hacer un copia/pega desde la máquina física a la máquina virtual (Ubuntu), en la copia de la misma que tenía en el disco duro me fue imposible, introduje varios comandos para poder instalalar la opción de hacer el copia/pega, no se pudo realizar, todo hecho en el ordenador de clase.
 
-#### Ya en casa, en la máquina virtual origen que tengo en mi portatil, conseguí realizar la instalación de este controlador, ya con la opción instalda pude realizar la tarea sin más problemas.
+#### Ya en casa, en la máquina virtual origen que tengo en mi portatil, conseguí realizar la instalación de este controlador, ya con la opción instalada pude realizar la tarea sin más problemas.
 
 #### Siguiendo la guía de la tarea pude realizarla, haciendo un copia/pega de los comandos, se instaló sin adversidades. Ver imagenes:
 
